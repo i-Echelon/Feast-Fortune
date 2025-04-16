@@ -1,0 +1,26 @@
+{
+	"Name": "Feast and Fortune",
+	"Author": "Echelon",
+	"Description": "A rich culinary expansion for Foundation that introduces a deep, dynamic meal system to your Tavern. Designed for immersion, customization, and long-term progression — your cooks now have access to tiered meals, new resources, and meaningful happiness rewards.",
+	"Version": "1.2.0",
+
+	"AdditionalLanguageList": [
+		{
+			"Name": "German",
+			"Code": "de"
+		},
+		{
+			"Name": "French",
+			"Code": "fr"
+		},
+		{
+			"Name": "Spanish",
+			"Code": "es"
+		},
+		{
+			"Name": "Russian",
+			"Code": "ru"
+		}
+		
+	]
+}

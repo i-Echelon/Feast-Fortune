@@ -1,5 +1,4 @@
 # 🍽️ Feast & Fortune: - Quick Modding Guide
-[ Looks better in Notepad++ or something other than standard Notepad text editor.]
 
 This mod lets you expand your Tavern with tiered meals, custom outputs, new happiness factors, and a smart recipe framework.
 
